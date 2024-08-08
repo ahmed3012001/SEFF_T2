@@ -1,0 +1,180 @@
+html{
+    background-image: url("images/light.jpg");
+}
+.div1{
+    width: 180px;
+    height: 4px ;
+    background-color: rgb(45, 45, 235);
+    margin: auto;
+    margin-top: -20px ;
+}
+.div2{
+    width: 250px;
+    height: 370px;
+    border: 1px solid  grey;
+    text-align: center;
+    float: left;
+    margin-left: 250px;
+    background-color:  rgb(218, 209, 163);
+}
+.div3{
+    width: 250px;
+    height: 370px;
+    border: 1px solid  grey;
+    text-align: center;
+    float: left;
+    margin:  0px  40px ;
+    background-color:  rgb(218, 209, 163);
+}
+.div4 {
+    width: 250px;
+    height: 370px;
+    border: 1px solid  grey;
+    text-align: center;
+    float: left;
+    background-color:  rgb(218, 209, 163);
+}
+.parent {
+    margin-top: 60px;   
+}
+.title1{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(241, 233, 226);
+}
+.title2{
+    font-size:30px;
+    color: brown;
+    margin-top: 35px;
+}
+.title3{
+    font-size:30px;
+    color: brown;
+    margin-top: 35px;
+}
+.title4{
+    font-size:30px;
+    color: brown;
+    margin-top: 35px;
+}
+.p1{
+    color: rgb(165, 51, 51);
+    font-size: 20px;
+    margin:  0px 20px ;
+    margin-top: 20px;
+}
+.p2{
+    color: rgb(165, 51, 51);
+    font-size: 20px;
+    margin:  0px  20px ;
+}
+.p3{
+    color: rgb(165, 51, 51);
+    font-size: 20px;
+    margin:  0px 20px ;
+}
+.p4{
+    color: rgb(165, 51, 51);
+    font-size: 20px;
+    margin:  0px 20px ;
+    margin-top: 20px;
+}
+.p5{
+    color: rgb(165, 51, 51);
+    font-size: 20px;
+    margin:  0px 20px ;
+}
+.p6{
+    color: rgb(165, 51, 51);
+    font-size: 20px;
+    margin:  0px 20px ;
+}
+.p7{
+    color: rgb(165, 51, 51);
+    font-size: 20px;
+    margin:  0px 20px ;
+    margin-top: 20px;
+}
+.p8{
+    color: rgb(165, 51, 51);
+    font-size: 20px;
+    margin:  0px 20px ;
+}
+.p9{
+    color: rgb(165, 51, 51);
+    font-size: 20px;
+    margin:  0px 20px ;
+}
+.h1{
+    background-color: avajowhite;
+    color: rgb(14, 8, 61);
+    width: 130px;
+    height: 30px;
+    margin-top: 25px;
+}
+.h2{
+    background-color: avajowhite;
+    color: rgb(14, 8, 61);
+    width: 130px;
+    height: 30px;
+    margin-top: 25px;
+}
+.h3{
+    background-color: avajowhite;
+    color: rgb(14, 8, 61);
+    width: 130px;
+    height: 30px;
+    margin-top: 25px;
+}
+.div5{
+    border-radius: 50%; 
+    width: 100px;
+    height: 105px;
+    border: 1px solid  rgb(37, 78, 51);
+    margin-left: 70px;
+    margin-top: 20px;
+}
+.div6{
+    border-radius: 50%; 
+    width: 100px;
+    height: 105px;
+    border: 1px solid  rgb(37, 78, 51);
+    margin-left: 70px;
+    margin-top: 20px;
+}
+.div7{
+    border-radius: 50%; 
+    width: 100px;
+    height: 105px;
+    border: 1px solid  rgb(37, 78, 51);
+    margin-left: 70px;
+    margin-top: 20px;
+}
+.f1{
+    font-size: 50px;
+    font-weight: bold;
+}
+.f2{
+    font-size: 18px;
+    font-weight: bold;
+}
+.f3{
+    font-size: 50px;
+    font-weight: bold;
+}
+.f4{
+    font-size: 18px;
+    font-weight: bold;
+}
+.f5{
+    font-size: 50px;
+    font-weight: bold;
+}
+.f6{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+
+
